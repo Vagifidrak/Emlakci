@@ -1,0 +1,15 @@
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\bin\Debug\EmlakciProq.exe.config
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\bin\Debug\EmlakciProq.exe
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\bin\Debug\EmlakciProq.pdb
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\obj\Debug\EmlakciProq.csprojAssemblyReference.cache
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\obj\Debug\EmlakciProq.Form1.resources
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\obj\Debug\EmlakciProq.Properties.Resources.resources
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\obj\Debug\EmlakciProq.csproj.GenerateResource.cache
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\obj\Debug\EmlakciProq.exe
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\obj\Debug\EmlakciProq.pdb
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\obj\Debug\EmlakciProq.Form2.resources
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\bin\Debug\EntityFramework.dll
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\bin\Debug\EntityFramework.xml
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МММ\Desktop\FAYLLARIM\Emlak Kayit\EmlakciProq\EmlakciProq\obj\Debug\EmlakciProq.csproj.CopyComplete
